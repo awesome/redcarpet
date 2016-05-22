@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.version = '3.3.5'
   s.summary = "Markdown that smells nice"
   s.description = 'A fast, safe and extensible Markdown to (X)HTML parser'
-  s.date = '2015-12-25'
+  s.date = '2016-05-22'
   s.email = 'vicent@github.com'
   s.homepage = 'http://github.com/vmg/redcarpet'
   s.authors = ["Natacha Porté", "Vicent Martí"]
