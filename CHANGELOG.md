@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 3.3.5
+
+* Fix `warning: loading in progress, circular require considered harmful`
+
+  *SoAwesomeMan*
+
 * Avoid escaping ampersands in href links.
 
   *Nolan Evans*
