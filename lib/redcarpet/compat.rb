@@ -1,4 +1,4 @@
-require 'redcarpet'
+require 'redcarpet' unless defined?(Redcarpet)
 
 # Creates an instance of Redcarpet with the RedCloth API.
 class RedcarpetCompat
